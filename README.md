@@ -1,7 +1,7 @@
 ### Red Neuronal Clasificacion Ropa:
 
 ##Datos:
-- Se usará un dataset facilitado por Zalando en Github con 70000 datos de imagenes cada una clasificada en 10 opciones. 
+- Se usará un dataset facilitado por Zalando en Github con 70000 datos de imagenes cada una clasificada en 10 tipos diferentes de prendas. 
 
 ##Red Neuronal:
 - Tipo de Red neuronal convolucional para clasificación de imagenes
